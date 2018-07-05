@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For CarMotor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CarMotor	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+CarMotor            KEYWORD2
+CarMotor            KEYWORD2
+run                 KEYWORD2
+leftMotorNegative   KEYWORD2
+leftMotorStop       KEYWORD2
+rightMotorPositive  KEYWORD2
+rightMotorNegative  KEYWORD2
+rightMotorStop()    KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

@@ -1,0 +1,15 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\IceLee\\.platformio\\penv\\Scripts;C:\\Users\\IceLee\\.platformio\\penv;D:\\Program Files\\Anaconda3;D:\\Program Files\\Anaconda3\\Library\\mingw-w64\\bin;D:\\Program Files\\Anaconda3\\Library\\usr\\bin;D:\\Program Files\\Anaconda3\\Library\\bin;D:\\Program Files\\Anaconda3\\Scripts;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\MySQL\\MySQL Utilities 1.6\\;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\dotnet\\;D:\\Program Files\\LLVM\\bin;C:\\Users\\IceLee\\AppData\\Local\\Microsoft\\WindowsApps;D:\\Program Files\\Java\\jdk1.8.0_71\\bin;D:\\Program Files\\Git\\cmd;D:\\GreenApp\\cmder;C:\\Program Files\\MySQL\\MySQL Server 5.7\\bin;C:\\Users\\IceLee\\scripts;D:\\datas\\Android\\sdk\\platform-tools;D:\\datas\\Android\\sdk\\tools;D:\\Program Files\\mingw-w64\\x86_64-7.3.0-posix-seh-rt_v5-rev0\\mingw64\\bin;D:\\GreenApp\\vim81;C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319;D:\\Program Files\\JetBrains\\CLion 2018.1.2\\bin\\cmake\\bin;D:\\Program Files\\Anaconda3\\envs\\py2;D:\\Program Files\\Anaconda3\\envs\\py2\\Scripts;D:\\Program Files\\Anaconda3;D:\\Program Files\\Anaconda3\\Library\\mingw-w64\\bin;D:\\Program Files\\Anaconda3\\Library\\usr\\bin;D:\\Program Files\\Anaconda3\\Library\\bin;D:\\Program Files\\Anaconda3\\Scripts;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\MySQL\\MySQL Utilities 1.6\\;C:\\ProgramData\\chocolatey\\bin;C:\\Program Files\\dotnet\\;C:\\Program Files (x86)\\dotnet\\;D:\\Program Files\\LLVM\\bin;C:\\Users\\IceLee\\AppData\\Local\\Microsoft\\WindowsApps;D:\\Program Files\\Java\\jdk1.8.0_71\\bin;D:\\Program Files\\Git\\cmd;D:\\GreenApp\\cmder;C:\\Program Files\\MySQL\\MySQL Server 5.7\\bin;C:\\Users\\IceLee\\scripts;D:\\datas\\Android\\sdk\\platform-tools;D:\\datas\\Android\\sdk\\tools;D:\\Program Files\\mingw-w64\\x86_64-7.3.0-posix-seh-rt_v5-rev0\\mingw64\\bin;D:\\GreenApp\\vim81;C:\\Windows\\Microsoft.NET\\Framework\\v4.0.30319;D:\\Program Files\\JetBrains\\CLion 2018.1.2\\bin\\cmake\\bin;D:\\Program Files\\Anaconda3\\envs\\py2;D:\\Program Files\\Anaconda3\\envs\\py2\\Scripts",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "files.associations": {
+        "array": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "initializer_list": "cpp",
+        "cmath": "cpp"
+    }
+}
