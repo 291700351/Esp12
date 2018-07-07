@@ -30,7 +30,6 @@ CarMotor carMotor(D0, D1, D2, D3);
  */
 void configWifi()
 {
-    char retryCount = 5;
     Serial.println("Start config wifi with smart");
 
     WiFi.mode(WIFI_AP_STA);  //设置模式全双工模式
@@ -54,7 +53,7 @@ void configWifi()
 void mqttCallback(char *topic, byte *payload, unsigned int length)
 {
     String json = "";
-    for (int i = 0; i < length; i++)
+    for (unsigned int i = 0; i < length; i++)
     {
         json += (char)payload[i];
     }
@@ -69,7 +68,7 @@ void mqttCallback(char *topic, byte *payload, unsigned int length)
         JsonObject &root = jsonBuffer.parseObject(json);
         const char x = root["x"];
         const char y = root["y"];
-       
+
         carMotor.run(x, y);
     }
 }
